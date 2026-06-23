@@ -6,21 +6,21 @@
 
 <p align="center">
   <a href="mailto:turekam06@gmail.com">
-    <img src="assets/email.png" alt="Email" width="22" height="22" />
+    <img src="assets/email.png" alt="Email" width="30" height="30" />
   </a>
   &nbsp;
   <a href="mailto:turekam06@gmail.com">Email</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/andrea-turek">
-    <img src="assets/linkedin.png" alt="LinkedIn" width="22" height="22" />
+    <img src="assets/in.png" alt="LinkedIn" width="28" height="28" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/andrea-turek">LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://andrea-portfolio-psi.vercel.app">
-    <img src="assets/portfolio.png" alt="Portfolio" width="22" height="22" />
+    <img src="assets/web.png" alt="Portfolio" width="34" height="34" />
   </a>
   &nbsp;
   <a href="https://andrea-portfolio-psi.vercel.app">Portfolio</a>
